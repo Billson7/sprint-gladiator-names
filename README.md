@@ -1,6 +1,7 @@
 # ⚔️Gladiator Sprint Names⚔️
 Collection of gladiator names for sprints
-*Add more if you like 
+
+_Add more if you like_
 
 ### Historical Gladiator Names
 * Achillia
