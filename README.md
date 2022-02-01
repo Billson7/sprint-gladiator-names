@@ -5,16 +5,24 @@ _Add more if you like_
 
 ### Historical Gladiator Names
 * Achillia
+* Belliger
 * Carpophorus
 * Commodus
 * Crixus
+* Durus
+* Exitiosus
 * Flamma
+* Imperiosus
 * Hermes
 * Marcus Attilius
 * Mevia
+* Nocentianus
 * Priscus
 * Prudes
 * Spartacus
+* Spiculus
+* Tetraites
+* Verus
 
 ### TV Show Gladiators
 * Lightning
