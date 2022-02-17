@@ -1,7 +1,11 @@
 # ⚔️Gladiator Sprint Names⚔️
 Collection of gladiator names for sprints
 
+![](https://media.giphy.com/media/d7mMzaGDYkz4ZBziP6/giphy.gif)
+
+
 _Add more if you like_
+
 
 ### Historical Gladiator Names
 * Achillia
@@ -39,3 +43,12 @@ _Add more if you like_
 * Rhino
 * Nightshade
 * Jet
+
+
+### The Movie Gladiator
+* Cicero
+* Commodus
+* Juba
+* Lucilla
+* Maximus
+* Proximo
